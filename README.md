@@ -3,13 +3,13 @@
 <h3 align="center">Building dynamic and responsive web applications using React's power and flexibility</h3>
 <img align="right" alt="coding" width="400" src="https://www.navicosoft.com/wp-content/uploads/2018/08/expert-developers.gif">
 
-- 🔭 I’m currently working on **Blog post project**
+👋 Hey there! I'm a web developer and I'm currently diving into the exciting world of the **React** working on a  **Blog post project**. 🔭 Additionally, I'm expanding my skills by learning **React Native**, exploring the realm of mobile app development. 📱💡
 
-- 🌱 I’m currently learning **React Native**
+Feel free to reach out if you have any questions or want to discuss anything related to **React** and **JavaScript**. 💬 I'm always eager to share knowledge and engage in stimulating conversations.
 
-- 💬 Ask me about **React and javaScript**
+On a lighter note, here's a fun fact about me: **I have a great sense of humor and love making people laugh**. 😄
 
-- ⚡ Fun fact **I am funny....**
+Currently, I'm also working for **Kreative Machinez**, where I'm applying my expertise to create innovative solutions. 🚀 Join me on this journey of coding excellence, creativity, and continuous growth! Let's build amazing things together! 💪✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
