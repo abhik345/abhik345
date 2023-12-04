@@ -3,9 +3,9 @@
 <h3 align="center">Building dynamic and responsive web applications using React's power and flexibility</h3>
 <img align="right" alt="coding" width="400" src="https://www.navicosoft.com/wp-content/uploads/2018/08/expert-developers.gif">
 
-👋 Hey there! I'm a web developer and I'm currently diving into the exciting world of the **React** working on a  **Blog post project**. 🔭 Additionally, I'm expanding my skills by learning **Flutter**, exploring the realm of mobile app development. 📱💡
+👋 Hey there! I'm a web developer and I'm currently diving into the exciting world of the **React and Node** working on a  **Blog post project**. 🔭 Additionally, I'm expanding my skills by learning **Node**, exploring the realm of backend development. 📱💡
 
-Feel free to reach out if you have any questions or want to discuss anything related to **React** and **JavaScript**. 💬 I'm always eager to share knowledge and engage in stimulating conversations.
+Feel free to reach out if you have any questions or want to discuss anything related to **React** and **JavaScript** and **Node**. 💬 I'm always eager to share knowledge and engage in stimulating conversations.
 
 On a lighter note, here's a fun fact about me: **I have a great sense of humor and love making people laugh**. 😄
 
